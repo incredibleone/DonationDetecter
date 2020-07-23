@@ -1,0 +1,2 @@
+# DonationDetecter
+detects donation camps
